@@ -1,0 +1,17 @@
+.imag {
+    width: 180px;
+    height: auto;
+    transition: 1.2s;
+}
+.do:hover {
+    background-color:white ;
+    color: red ;
+}
+
+.imag:hover {
+    transform: scale(1.3);
+}
+.im {
+    width: 180px;
+    height: auto;  
+}
